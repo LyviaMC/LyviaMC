@@ -1,4 +1,4 @@
-##【日本語｜お知らせ】
+# 【日本語｜お知らせ】
 ===
 
 前に使ってた個人サイトは閉じました。新しいのはこちら → [https://www.lyviamc.com/]
@@ -9,7 +9,7 @@
 
 詳しくはこっちのブログに書いたから見てみて → [https://notices.lyviamc.com/25w44a/]
 
-##\[English | IMPORTANT\]
+# \[English | IMPORTANT\]
 ===
 
 My previous personal site is no longer available — I’ve moved everything to a new location: [https://www.lyviamc.com/].
@@ -20,7 +20,7 @@ I’ve also been reorganizing my GitHub repositories. A lot of my older code was
 
 If you can’t find a repo that used to be here, it’s likely been moved or merged. For details and updates, check out this blog post [https://notices.lyviamc.com/25w44a/](here)
 
-##【简体｜注意】
+# 【简体｜注意】
 ===
 
 个人网站旧网址已停用，请访问此[https://www.lyviamc.com/](新网址)，预计2026年初全面迁移至新网址。
